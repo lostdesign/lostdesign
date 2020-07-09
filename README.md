@@ -1,6 +1,5 @@
-### lostdesign
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Flostdesign)
-This is a work in progress :)
+### 👋 lostdesign
+Hi, i am lost! This readme is still work in progress. Feel free to contact me on discord `lost#0001`.
  
 ### Projects
 #### taskflow.io
@@ -12,6 +11,7 @@ Devcord is a community that brings together web developers of all experience lev
 #### webgems.io
 Webgems is a place for devs and designers to find useful resources all at one place. It has server resources on HTML, CSS, Javascript, Design, Icons,Accessibility, PHP, Podcasts, Python, Ruby, Servers and more.
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Flostdesign)
 
 
 
